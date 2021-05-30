@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BigBush3
-- 👀 I’m interested in Front-end web development
+- 👋 Hi, I’m Andrey @BigBush3 my pseudo. just funny nickname
+- 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning react and react native
 - 💞️ I’m looking to collaborate on everything that pays money:_)
-- 📫 How to reach me just write me on upwork.
+- 📫 How to reach me just write me on upwork. userID: andreyplatonov20
 
 <!---
 BigBush3/BigBush3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
