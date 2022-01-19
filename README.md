@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrey @BigBush3 my pseudo. just funny nickname
+- 👋 Hi, I’m @BigBush3. just funny nickname
 - 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning react and react native
 - 💞️ I’m looking to collaborate on everything that pays money:_)
