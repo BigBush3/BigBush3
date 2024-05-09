@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @BigBush3. just funny nickname
-- 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning react and react native
+- 👋 Hi, I’m Andrey Platonov
+- 👀 I’m interested in web and mobile development
 - 💞️ I’m looking to collaborate on everything that will inspire me:_)
 
 <!---
