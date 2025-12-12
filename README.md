@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrey Platonov
+- 👋 Hi
 - 👀 I’m interested in web and mobile development
 - 💞️ I’m looking to collaborate on everything that will inspire me:_)
 
